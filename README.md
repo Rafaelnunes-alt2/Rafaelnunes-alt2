@@ -14,6 +14,8 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [calculadora-binaria-logisim](https://github.com/Rafaelnunes-alt2/calculadora-binaria-logisim) — calculadora de 5 bits construída de portas lógicas até a cascata.
 - [pe-analyzer-cpp](https://github.com/Rafaelnunes-alt2/pe-analyzer-cpp) — parser de PE em C++17 com imports, exports e entropia.
 - [memory-signature-scanner](https://github.com/Rafaelnunes-alt2/memory-signature-scanner) — scanner de assinaturas em arquivo e memória, só leitura, com wildcard.
+- [http-server-cpp](https://github.com/Rafaelnunes-alt2/http-server-cpp) — servidor HTTP/1.1 com sockets crus, sem framework, com proteção de traversal.
+- [json-parser-cpp](https://github.com/Rafaelnunes-alt2/json-parser-cpp) — parser JSON recursivo do zero, com validação estrita e pretty.
 
 ## O que eu construo
 
@@ -27,7 +29,8 @@ de PE, signature scanner, lógica digital no Logisim. Portátil Windows e Linux.
 
 **Backend & Dados**
 Serviços com banco relacional e configuração por servidor. SQLite local,
-MySQL e Postgres na cidade. Validação de entrada antes de qualquer query.
+MySQL e Postgres na cidade. Servidor HTTP próprio com sockets e parser
+JSON próprio, sem framework. Validação de entrada antes de qualquer query.
 
 ## Stack
 
