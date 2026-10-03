@@ -16,6 +16,8 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [memory-signature-scanner](https://github.com/Rafaelnunes-alt2/memory-signature-scanner) — scanner de assinaturas em arquivo e memória, só leitura, com wildcard.
 - [http-server-cpp](https://github.com/Rafaelnunes-alt2/http-server-cpp) — servidor HTTP/1.1 com sockets crus, sem framework, com proteção de traversal.
 - [json-parser-cpp](https://github.com/Rafaelnunes-alt2/json-parser-cpp) — parser JSON recursivo do zero, com validação estrita e pretty.
+- [dns-resolver-cpp](https://github.com/Rafaelnunes-alt2/dns-resolver-cpp) — cliente DNS cru em UDP, sem getaddrinfo, com parse de compressão.
+- [file-integrity-monitor](https://github.com/Rafaelnunes-alt2/file-integrity-monitor) — monitor de integridade com SHA-256 próprio, sem OpenSSL.
 
 ## O que eu construo
 
