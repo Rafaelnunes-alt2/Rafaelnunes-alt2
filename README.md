@@ -18,6 +18,8 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [json-parser-cpp](https://github.com/Rafaelnunes-alt2/json-parser-cpp) — parser JSON recursivo do zero, com validação estrita e pretty.
 - [dns-resolver-cpp](https://github.com/Rafaelnunes-alt2/dns-resolver-cpp) — cliente DNS cru em UDP, sem getaddrinfo, com parse de compressão.
 - [file-integrity-monitor](https://github.com/Rafaelnunes-alt2/file-integrity-monitor) — monitor de integridade com SHA-256 próprio, sem OpenSSL.
+- [aes-256-tool-cpp](https://github.com/Rafaelnunes-alt2/aes-256-tool-cpp) — AES-256 do zero, sem OpenSSL, com ECB, CBC e PKCS#7.
+- [log-analyzer-python](https://github.com/Rafaelnunes-alt2/log-analyzer-python) — detector de brute-force em logs, só stdlib, com relatório JSON.
 
 ## O que eu construo
 
@@ -27,7 +29,8 @@ botão, logs e integração com MySQL e Postgres. Node.js e discord.js.
 
 **Baixo nível & Segurança**
 Ferramentas em C++17 que leem binário e memória sem modificar nada. Parser
-de PE, signature scanner, lógica digital no Logisim. Portátil Windows e Linux.
+de PE, signature scanner, AES-256 e SHA-256 próprios, lógica digital no
+Logisim. Portátil Windows e Linux.
 
 **Backend & Dados**
 Serviços com banco relacional e configuração por servidor. SQLite local,
@@ -37,7 +40,7 @@ JSON próprio, sem framework. Validação de entrada antes de qualquer query.
 ## Stack
 
 **Uso**
-JavaScript · Node.js · C++17 · SQL · Lua · HTML/CSS · Git/GitHub
+JavaScript · Node.js · C++17 · Python · SQL · Lua · HTML/CSS · Git/GitHub
 
 **Estudo ativo**
 MySQL · PostgreSQL · SQLite · Windows Internals · Lógica digital · Redes
