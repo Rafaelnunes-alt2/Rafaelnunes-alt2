@@ -21,6 +21,9 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [aes-256-tool-cpp](https://github.com/Rafaelnunes-alt2/aes-256-tool-cpp) — AES-256 do zero, sem OpenSSL, com ECB, CBC e PKCS#7.
 - [log-analyzer-python](https://github.com/Rafaelnunes-alt2/log-analyzer-python) — detector de brute-force em logs, só stdlib, com relatório JSON.
 
+- [mini-redis-cpp](https://github.com/Rafaelnunes-alt2/mini-redis-cpp) — servidor TCP estilo Redis com protocolo inline e TTL.
+- [todo-cli-rust](https://github.com/Rafaelnunes-alt2/todo-cli-rust) — CLI de tarefas em Rust com persistência JSON.
+
 ## O que eu construo
 
 **Gaming & Discord**
