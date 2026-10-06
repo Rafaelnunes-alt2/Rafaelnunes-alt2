@@ -27,6 +27,9 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [markdown-to-html-cli](https://github.com/Rafaelnunes-alt2/markdown-to-html-cli) — conversor Markdown para HTML em Python puro.
 - [tcp-port-scanner-cpp](https://github.com/Rafaelnunes-alt2/tcp-port-scanner-cpp) — scanner de portas TCP multithread em C++17.
 
+- [duplicate-finder-python](https://github.com/Rafaelnunes-alt2/duplicate-finder-python) — detector de duplicatas por tamanho e SHA-1.
+- [byte-diff-cpp](https://github.com/Rafaelnunes-alt2/byte-diff-cpp) — comparador byte a byte de arquivos em C++17.
+
 ## O que eu construo
 
 **Gaming & Discord**
