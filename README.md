@@ -24,6 +24,9 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [mini-redis-cpp](https://github.com/Rafaelnunes-alt2/mini-redis-cpp) — servidor TCP estilo Redis com protocolo inline e TTL.
 - [todo-cli-rust](https://github.com/Rafaelnunes-alt2/todo-cli-rust) — CLI de tarefas em Rust com persistência JSON.
 
+- [markdown-to-html-cli](https://github.com/Rafaelnunes-alt2/markdown-to-html-cli) — conversor Markdown para HTML em Python puro.
+- [tcp-port-scanner-cpp](https://github.com/Rafaelnunes-alt2/tcp-port-scanner-cpp) — scanner de portas TCP multithread em C++17.
+
 ## O que eu construo
 
 **Gaming & Discord**
