@@ -30,6 +30,9 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [duplicate-finder-python](https://github.com/Rafaelnunes-alt2/duplicate-finder-python) — detector de duplicatas por tamanho e SHA-1.
 - [byte-diff-cpp](https://github.com/Rafaelnunes-alt2/byte-diff-cpp) — comparador byte a byte de arquivos em C++17.
 
+- [base64-cli-cpp](https://github.com/Rafaelnunes-alt2/base64-cli-cpp) — encoder/decoder Base64 em C++17, sem deps.
+- [caesar-cipher-python](https://github.com/Rafaelnunes-alt2/caesar-cipher-python) — cifra Caesar por CLI em Python puro.
+
 ## O que eu construo
 
 **Gaming & Discord**
