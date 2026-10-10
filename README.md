@@ -33,6 +33,9 @@ Foco em resolver problema real. Se não funciona, não sobe.
 - [base64-cli-cpp](https://github.com/Rafaelnunes-alt2/base64-cli-cpp) — encoder/decoder Base64 em C++17, sem deps.
 - [caesar-cipher-python](https://github.com/Rafaelnunes-alt2/caesar-cipher-python) — cifra Caesar por CLI em Python puro.
 
+- [simple-http-proxy-cpp](https://github.com/Rafaelnunes-alt2/simple-http-proxy-cpp) — proxy HTTP com sockets crus e relay bidirecional.
+- [password-strength-checker-rust](https://github.com/Rafaelnunes-alt2/password-strength-checker-rust) — verificador de senha com entropia e senha comum em Rust.
+
 ## O que eu construo
 
 **Gaming & Discord**
